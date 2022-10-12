@@ -1,0 +1,1 @@
+{"mappings":"ACEA","sources":["index.e448c367.css","src/style.scss","src/base.scss"],"sourcesContent":["h1 {\n  background-color: purple;\n}\n\n/*# sourceMappingURL=index.e448c367.css.map */\n","@use 'base';\n\nh1{\n    background-color: base.$color;\n}","$color: purple;"],"names":[],"version":3,"file":"index.e448c367.css.map"}
